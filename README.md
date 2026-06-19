@@ -63,6 +63,20 @@ Self-hosted AI identity verification platform for Syrian banking — document an
 <table width="100%">
 <tr><td>
 
+#### [kast](https://github.com/kast-cms/kast) &nbsp;<kbd>OPEN SOURCE · CMS</kbd>
+
+Open-source, AI-native headless CMS — NestJS + Next.js with a built-in MCP server, SEO tooling, and full RTL/Arabic support.
+
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=white&labelColor=0D1117) ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117) ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white&labelColor=0D1117) ![BullMQ](https://img.shields.io/badge/BullMQ-0D1117?style=flat-square&logo=redis&logoColor=white&labelColor=0D1117) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) ![MCP](https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=anthropic&logoColor=white&labelColor=0D1117)
+
+**[Source ↗](https://github.com/kast-cms/kast)** · **[@kast-cms](https://github.com/kast-cms)**
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
 #### [SEO MCP Server](https://seo-mcp-landing.oday-bakkour.com/) &nbsp;<kbd>SEO</kbd>
 
 Comprehensive SEO analysis MCP server enabling AI assistants to perform real-time SEO validation, audits, and analysis through the Model Context Protocol.
@@ -146,6 +160,14 @@ Open-source framework for designing digital experiences that empower senior user
 <a href="https://github.com/Docker-Hunterpedia/seo-mcp-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=seo-mcp-server&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="seo-mcp-server" height="115" /></a>
 
 <a href="https://github.com/Docker-Hunterpedia/StatusDock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=StatusDock&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="StatusDock" height="115" /></a>
+
+</div>
+
+**Organizations**
+
+<div align="center">
+
+<a href="https://github.com/kast-cms/kast"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kast-cms&repo=kast&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="kast" height="115" /></a>
 
 </div>
 

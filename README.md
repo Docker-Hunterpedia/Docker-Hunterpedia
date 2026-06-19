@@ -49,6 +49,20 @@ Six years across **SEO, AI, full-stack systems and security** — building produ
 <table width="100%">
 <tr><td>
 
+#### [Huwiyya](https://huwiyya.syria-cloud.sy/en) &nbsp;<kbd>SECURITY · AI</kbd>
+
+Self-hosted AI identity verification platform for Syrian banking — document and biometric verification, sanctions screening, and a banking-grade audit trail, with full RTL support.
+
+![Self-Hosted AI](https://img.shields.io/badge/Self--Hosted%20AI-0D1117?style=flat-square&labelColor=0D1117) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0D1117?style=flat-square&labelColor=0D1117) ![OCR](https://img.shields.io/badge/OCR-0D1117?style=flat-square&labelColor=0D1117) ![Face Recognition](https://img.shields.io/badge/Face%20Recognition-0D1117?style=flat-square&labelColor=0D1117) ![Liveness Detection](https://img.shields.io/badge/Liveness%20Detection-0D1117?style=flat-square&labelColor=0D1117) ![mTLS](https://img.shields.io/badge/mTLS-0D1117?style=flat-square&labelColor=0D1117) ![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-0D1117?style=flat-square&labelColor=0D1117)
+
+**[Live ↗](https://huwiyya.syria-cloud.sy/en)** · **[Case study](https://oday-bakkour.com/projects/huwiyya)**
+
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
 #### [SEO MCP Server](https://seo-mcp-landing.oday-bakkour.com/) &nbsp;<kbd>SEO</kbd>
 
 Comprehensive SEO analysis MCP server enabling AI assistants to perform real-time SEO validation, audits, and analysis through the Model Context Protocol.

@@ -124,14 +124,16 @@ Open-source framework for designing digital experiences that empower senior user
 
 ### &nbsp;⟡&nbsp; Open Source on GitHub
 
+<!-- PUBLIC-REPOS:START -->
+
 **Original projects**
 
 <div align="center">
 
-<a href="https://github.com/Docker-Hunterpedia/seo-mcp-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=seo-mcp-server&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="seo-mcp-server" height="115" /></a>
-<a href="https://github.com/Docker-Hunterpedia/StatusDock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=StatusDock&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="StatusDock" height="115" /></a>
-
 <a href="https://github.com/Docker-Hunterpedia/helpflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=helpflow&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="helpflow" height="115" /></a>
+<a href="https://github.com/Docker-Hunterpedia/seo-mcp-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=seo-mcp-server&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="seo-mcp-server" height="115" /></a>
+
+<a href="https://github.com/Docker-Hunterpedia/StatusDock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=StatusDock&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="StatusDock" height="115" /></a>
 
 </div>
 
@@ -147,6 +149,7 @@ Open-source framework for designing digital experiences that empower senior user
 
 </div>
 
+<!-- PUBLIC-REPOS:END -->
 
 ---
 

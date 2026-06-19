@@ -10,7 +10,7 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://oday-bakkour.com) [![Projects](https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)](https://oday-bakkour.com/projects) [![Blog](https://img.shields.io/badge/Blog-0D1117?style=for-the-badge&logo=rss&logoColor=white&labelColor=0D1117)](https://oday-bakkour.com/blog) [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Docker-Hunterpedia) [![Contact](https://img.shields.io/badge/Contact-0D1117?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D1117)](https://oday-bakkour.com/contact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://oday-bakkour.com) [![Projects](https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)](https://oday-bakkour.com/projects) [![Blog](https://img.shields.io/badge/Blog-0D1117?style=for-the-badge&logo=rss&logoColor=white&labelColor=0D1117)](https://oday-bakkour.com/blog) [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Docker-Hunterpedia) [![Contact](https://img.shields.io/badge/Contact-0D1117?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D1117)](https://oday-bakkour.com/contact) [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:contact@odaybakkour.com)
 
 <br>
 
@@ -46,8 +46,6 @@ Six years across **SEO, AI, full-stack systems and security** — building produ
 
 ### &nbsp;⟡&nbsp; Selected Work
 
-<sub>Featured builds from <a href="https://oday-bakkour.com/projects">oday-bakkour.com/projects</a> — source is linked where the repository is public; client work ships closed-source.</sub>
-
 <table width="100%">
 <tr><td>
 
@@ -79,13 +77,13 @@ High-performance editorial SEO insights platform with GSC & GA4 integration, AI-
 <table width="100%">
 <tr><td>
 
-#### [LiraScope](https://oday-bakkour.com/projects/lirascope) &nbsp;<kbd>WEB · DOCKER</kbd>
+#### [LiraScope](https://lirascope.syria-cloud.sy/en) &nbsp;<kbd>WEB · DOCKER</kbd>
 
 Real-time Syrian Pound exchange rate monitoring platform with multi-channel alerts, API monetisation, and 6-locale multilingual support.
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0D1117?style=flat-square&logo=dotnet&logoColor=white&labelColor=0D1117) ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117) ![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=white&labelColor=0D1117) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117) ![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=white&labelColor=0D1117) ![PWA](https://img.shields.io/badge/PWA-0D1117?style=flat-square&logo=pwa&logoColor=white&labelColor=0D1117)
 
-**[Case study](https://oday-bakkour.com/projects/lirascope)**
+**[Live ↗](https://lirascope.syria-cloud.sy/en)** · **[Case study](https://oday-bakkour.com/projects/lirascope)**
 
 </td></tr>
 </table>

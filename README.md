@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://oday-bakkour.com"><img src="https://media.oday-bakkour.com/website/logo/png/oday%20logo-v-01.png" height="120" alt="Oday Bakkour" /></a>
+
 <h1>Oday Bakkour</h1>
 
 <a href="https://oday-bakkour.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&pause=900&color=F5F5F5&center=true&vCenter=true&width=680&height=45&lines=Engineering%20for%20quiet%20resilience;DevOps%20%C2%B7%20Docker%20%C2%B7%20Cloud;SEO%20%C2%B7%20AI%20%C2%B7%20Full-stack%20Systems;Independent%20studio%20%E2%80%94%20Aleppo%20to%20worldwide" alt="Engineering for quiet resilience" /></a>
@@ -12,7 +14,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Docker-Hunterpedia&style=flat-square&color=0D1117&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Docker-Hunterpedia.profile&left_text=PROFILE%20VIEWS&left_color=21262D&right_color=0D1117" alt="profile views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/Docker-Hunterpedia?style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=white&label=FOLLOWERS" alt="followers" />
 
@@ -44,6 +46,8 @@ Six years across **SEO, AI, full-stack systems and security** — building produ
 
 ### &nbsp;⟡&nbsp; Selected Work
 
+<sub>Featured builds from <a href="https://oday-bakkour.com/projects">oday-bakkour.com/projects</a> — source is linked where the repository is public; client work ships closed-source.</sub>
+
 <table width="100%">
 <tr><td>
 
@@ -57,6 +61,7 @@ Comprehensive SEO analysis MCP server enabling AI assistants to perform real-tim
 
 </td></tr>
 </table>
+
 <table width="100%">
 <tr><td>
 
@@ -66,10 +71,11 @@ High-performance editorial SEO insights platform with GSC & GA4 integration, AI-
 
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117) ![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=white&labelColor=0D1117) ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white&labelColor=0D1117) ![BullMQ](https://img.shields.io/badge/BullMQ-0D1117?style=flat-square&logo=redis&logoColor=white&labelColor=0D1117) ![Google APIs](https://img.shields.io/badge/Google%20APIs-0D1117?style=flat-square&logo=google&logoColor=white&labelColor=0D1117) ![AWS S3](https://img.shields.io/badge/AWS%20S3-0D1117?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0D1117) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117)
 
-**[Live ↗](https://seo-cast-front.vercel.app)** · **[Source](https://github.com/Docker-Hunterpedia/SEO-Cast-Front)** · **[Case study](https://oday-bakkour.com/projects/seo-cast)**
+**[Live ↗](https://seo-cast-front.vercel.app)** · **[Case study](https://oday-bakkour.com/projects/seo-cast)**
 
 </td></tr>
 </table>
+
 <table width="100%">
 <tr><td>
 
@@ -83,6 +89,7 @@ Real-time Syrian Pound exchange rate monitoring platform with multi-channel aler
 
 </td></tr>
 </table>
+
 <table width="100%">
 <tr><td>
 
@@ -92,10 +99,11 @@ Cybersecurity solutions platform — cloud security, DevSecOps, and vulnerabilit
 
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117) ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=white&labelColor=0D1117) ![Notion API](https://img.shields.io/badge/Notion%20API-0D1117?style=flat-square&logo=notion&logoColor=white&labelColor=0D1117)
 
-**[Live ↗](https://www.cyberpedia.site)** · **[Source](https://github.com/Docker-Hunterpedia/Cyberpedia-Web)** · **[Case study](https://oday-bakkour.com/projects/cyberpedia-website)**
+**[Live ↗](https://www.cyberpedia.site)** · **[Case study](https://oday-bakkour.com/projects/cyberpedia-website)**
 
 </td></tr>
 </table>
+
 <table width="100%">
 <tr><td>
 
@@ -111,110 +119,33 @@ Open-source framework for designing digital experiences that empower senior user
 </table>
 
 
+
 ---
 
-### &nbsp;⟡&nbsp; All Public Repositories &nbsp;<sub>·&nbsp; 65 live on <a href="https://github.com/Docker-Hunterpedia?tab=repositories">@Docker-Hunterpedia</a></sub>
+### &nbsp;⟡&nbsp; Open Source on GitHub
 
-<details open>
-<summary><b>◆ &nbsp;Products &amp; Platforms</b> &nbsp;·&nbsp; 21 repos</summary>
-<br>
+**Original projects**
 
-| Repository | Stack | Demo |
-|:--|:--|:--:|
-| **[seo-dash-api](https://github.com/Docker-Hunterpedia/seo-dash-api)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[seo-dash](https://github.com/Docker-Hunterpedia/seo-dash)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[r2-manager](https://github.com/Docker-Hunterpedia/r2-manager)** | ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white&labelColor=0D1117) | — |
-| **[SEO-Cast-Back](https://github.com/Docker-Hunterpedia/SEO-Cast-Back)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[SEO-Cast-Front](https://github.com/Docker-Hunterpedia/SEO-Cast-Front)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://seo-cast-front.vercel.app) |
-| **[keycloak-theme-builder](https://github.com/Docker-Hunterpedia/keycloak-theme-builder)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://v0-keycloak-theme-builder.vercel.app) |
-| **[slides](https://github.com/Docker-Hunterpedia/slides)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://slides-sand-eight.vercel.app) |
-| **[chatbot](https://github.com/Docker-Hunterpedia/chatbot)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[helpflow](https://github.com/Docker-Hunterpedia/helpflow)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[seo-mcp-landing](https://github.com/Docker-Hunterpedia/seo-mcp-landing)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://seo-mcp-landing.vercel.app) |
-| **[seo-mcp-server](https://github.com/Docker-Hunterpedia/seo-mcp-server)**<br><sub>comprehensive SEO validation and analysis server built on the Model Context Protocol (M…</sub> | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://seo-mcp-landing.oday-bakkour.com/) |
-| **[oday-ai-hub](https://github.com/Docker-Hunterpedia/oday-ai-hub)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://oday-ai-hub.vercel.app) |
-| **[Google_boy](https://github.com/Docker-Hunterpedia/Google_boy)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://google-bot-gamma.vercel.app) |
-| **[googlebot-size-check](https://github.com/Docker-Hunterpedia/googlebot-size-check)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[StatusDock](https://github.com/Docker-Hunterpedia/StatusDock)**<br><sub>A modern, self-hosted status page built with Payload CMS and Next.js.</sub> | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://docker-hunterpedia.github.io/StatusDock/) |
-| **[yet-another-status-page](https://github.com/Docker-Hunterpedia/yet-another-status-page)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://yet-another-status-page.vercel.app) |
-| **[explain](https://github.com/Docker-Hunterpedia/explain)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://explain-bay.vercel.app) |
-| **[kasroad-tools](https://github.com/Docker-Hunterpedia/kasroad-tools)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://kasrod-tools.vercel.app) |
-| **[codepedia](https://github.com/Docker-Hunterpedia/codepedia)**<br><sub>codepedia</sub> | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://codepedia-phi.vercel.app) |
-| **[seo-intelligence-hub](https://github.com/Docker-Hunterpedia/seo-intelligence-hub)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[Hunterpedia](https://github.com/Docker-Hunterpedia/Hunterpedia)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://hunterpedia-five.vercel.app) |
+<div align="center">
 
-</details>
+<a href="https://github.com/Docker-Hunterpedia/seo-mcp-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=seo-mcp-server&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="seo-mcp-server" height="115" /></a>
+<a href="https://github.com/Docker-Hunterpedia/StatusDock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=StatusDock&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="StatusDock" height="115" /></a>
 
-<details>
-<summary><b>⬡ &nbsp;Cyberpedia Ecosystem</b> &nbsp;·&nbsp; 18 repos</summary>
-<br>
+<a href="https://github.com/Docker-Hunterpedia/helpflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=helpflow&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="helpflow" height="115" /></a>
 
-| Repository | Stack | Demo |
-|:--|:--|:--:|
-| **[monitor-cyberpedia](https://github.com/Docker-Hunterpedia/monitor-cyberpedia)** | — | — |
-| **[cyberpedia-kids-frontend](https://github.com/Docker-Hunterpedia/cyberpedia-kids-frontend)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://cyberpedia-kids-frontend.vercel.app) |
-| **[cyberpedia-kids-backend](https://github.com/Docker-Hunterpedia/cyberpedia-kids-backend)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[Cyberpedia-Books-](https://github.com/Docker-Hunterpedia/Cyberpedia-Books-)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://cyberpedia-books.vercel.app) |
-| **[cyberpedia-books-backend](https://github.com/Docker-Hunterpedia/cyberpedia-books-backend)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[Platform-Cyberpedia](https://github.com/Docker-Hunterpedia/Platform-Cyberpedia)**<br><sub>Platform-Cyberpedia</sub> | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://platform-cyberpedia.vercel.app) |
-| **[cyberpedia-resources](https://github.com/Docker-Hunterpedia/cyberpedia-resources)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://cyberpedia-resources.vercel.app) |
-| **[cyberpedia-intern-backend](https://github.com/Docker-Hunterpedia/cyberpedia-intern-backend)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[Cyberpedia-Training](https://github.com/Docker-Hunterpedia/Cyberpedia-Training)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://cyberpedia-training.vercel.app) |
-| **[Cyberpedia-Web](https://github.com/Docker-Hunterpedia/Cyberpedia-Web)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://www.cyberpedia.site) |
-| **[Cyberpedia-Blog](https://github.com/Docker-Hunterpedia/Cyberpedia-Blog)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://cyberpedia-blog.vercel.app) |
-| **[Cyberpedia-Sign](https://github.com/Docker-Hunterpedia/Cyberpedia-Sign)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[Cyberpedia-finance](https://github.com/Docker-Hunterpedia/Cyberpedia-finance)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://cyberpedia-finance.vercel.app) |
-| **[cyberpedia-admin](https://github.com/Docker-Hunterpedia/cyberpedia-admin)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://admin-dashborad-dockers-projects-c703e17e.vercel.app) |
-| **[cyber-pathways-lms](https://github.com/Docker-Hunterpedia/cyber-pathways-lms)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[Cyberpedia-Security-Platform](https://github.com/Docker-Hunterpedia/Cyberpedia-Security-Platform)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://cyberpedia-security-tracker.vercel.app) |
-| **[Cyberpedia-forms](https://github.com/Docker-Hunterpedia/Cyberpedia-forms)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[cyber-arabi-books](https://github.com/Docker-Hunterpedia/cyber-arabi-books)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
+</div>
 
-</details>
+**Forks &amp; contributions**
 
-<details>
-<summary><b>▷ &nbsp;Client &amp; Studio Work</b> &nbsp;·&nbsp; 22 repos</summary>
-<br>
+<div align="center">
 
-| Repository | Stack | Demo |
-|:--|:--|:--:|
-| **[Oday_Website](https://github.com/Docker-Hunterpedia/Oday_Website)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://oday-bakkour.com/) |
-| **[Moraafa-app](https://github.com/Docker-Hunterpedia/Moraafa-app)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://replit.com/@odaybakour2/Moraafa) |
-| **[yousef-frontend](https://github.com/Docker-Hunterpedia/yousef-frontend)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://yousef-frontend-beta.vercel.app) |
-| **[yousef-backend](https://github.com/Docker-Hunterpedia/yousef-backend)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[tanstack-start](https://github.com/Docker-Hunterpedia/tanstack-start)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://tanstack-start-murex.vercel.app) |
-| **[next-test](https://github.com/Docker-Hunterpedia/next-test)** | — | — |
-| **[non-voip-wordpress-plugin](https://github.com/Docker-Hunterpedia/non-voip-wordpress-plugin)** | — | — |
-| **[nour-web](https://github.com/Docker-Hunterpedia/nour-web)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://nour-web-psi.vercel.app) |
-| **[nour-website-backend](https://github.com/Docker-Hunterpedia/nour-website-backend)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[coding-agents](https://github.com/Docker-Hunterpedia/coding-agents)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://coding-agents-bice.vercel.app) |
-| **[saydiliti](https://github.com/Docker-Hunterpedia/saydiliti)**<br><sub>saydiliti project for open source with yousef have access to it.</sub> | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://saydiliti.vercel.app) |
-| **[Morafaa](https://github.com/Docker-Hunterpedia/Morafaa)** | ![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117) | — |
-| **[blogs-backend-strapi](https://github.com/Docker-Hunterpedia/blogs-backend-strapi)** | — | — |
-| **[eshara-demo](https://github.com/Docker-Hunterpedia/eshara-demo)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[eshara-4](https://github.com/Docker-Hunterpedia/eshara-4)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://eshara-4.vercel.app) |
-| **[esharah-3](https://github.com/Docker-Hunterpedia/esharah-3)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://esharah-3.vercel.app) |
-| **[eshara](https://github.com/Docker-Hunterpedia/eshara)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | — |
-| **[esharah-2](https://github.com/Docker-Hunterpedia/esharah-2)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://esharah-solutions-hub.vercel.app) |
-| **[ubuntu-bound](https://github.com/Docker-Hunterpedia/ubuntu-bound)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://ubuntu-2-windows.vercel.app) |
-| **[ads-landing](https://github.com/Docker-Hunterpedia/ads-landing)** | — | — |
-| **[kazkez](https://github.com/Docker-Hunterpedia/kazkez)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://kazkez.vercel.app) |
-| **[pro](https://github.com/Docker-Hunterpedia/pro)** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117) | [`live ↗`](https://pro-ten-beryl.vercel.app) |
+<a href="https://github.com/Docker-Hunterpedia/uptime-kuma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=uptime-kuma&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="uptime-kuma" height="115" /></a>
+<a href="https://github.com/Docker-Hunterpedia/ELDER-Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=ELDER-Framework&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="ELDER-Framework" height="115" /></a>
 
-</details>
+<a href="https://github.com/Docker-Hunterpedia/microservices-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=microservices-ecommerce&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="microservices-ecommerce" height="115" /></a>
+<a href="https://github.com/Docker-Hunterpedia/strapi-arabic-localization-full-version"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Docker-Hunterpedia&repo=strapi-arabic-localization-full-version&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="strapi-arabic-localization-full-version" height="115" /></a>
 
-<details>
-<summary><b>⑂ &nbsp;Forks &amp; Contributions</b> &nbsp;·&nbsp; 4 repos</summary>
-<br>
-
-| Repository | Stack | Demo |
-|:--|:--|:--:|
-| **[uptime-kuma](https://github.com/Docker-Hunterpedia/uptime-kuma)**<br><sub>A fancy self-hosted monitoring tool</sub> | — | [`live ↗`](https://uptime.kuma.pet) |
-| **[ELDER-Framework](https://github.com/Docker-Hunterpedia/ELDER-Framework)**<br><sub>**E**mpowering **L**iving for **D**igitally **E**nhanced **R**esponsiveness</sub> | — | — |
-| **[microservices-ecommerce](https://github.com/Docker-Hunterpedia/microservices-ecommerce)** | — | — |
-| **[strapi-arabic-localization-full-version](https://github.com/Docker-Hunterpedia/strapi-arabic-localization-full-version)**<br><sub>Arabic localization for Strapi Admin Panel. Provides a complete ar.json translation cov…</sub> | — | — |
-
-</details>
+</div>
 
 
 ---

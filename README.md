@@ -168,6 +168,7 @@ Open-source framework for designing digital experiences that empower senior user
 <div align="center">
 
 <a href="https://github.com/kast-cms/kast"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kast-cms&repo=kast&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="kast" height="115" /></a>
+<a href="https://github.com/kast-cms/kast.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kast-cms&repo=kast.dev&show_owner=false&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="kast.dev" height="115" /></a>
 
 </div>
 
